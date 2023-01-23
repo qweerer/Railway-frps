@@ -4,9 +4,9 @@
 
 |variable-name|default|descript|
 |--|--|--|
-|CONNECT_PORT|7000|frpc链接端口|
+|CONNECT_PORT|10000|frpc链接端口,10000以上|
 |CONNECT_TOKEN|123456|frpc链接密码|
-|DASH_PORT|7001|frps管理页面端口|
+|DASH_PORT|100001|frps管理页面端口,10000以上|
 |DASH_USER|admin|管理页面用户名|
 |DASH_PASSWD|admin|管理页面用密码|
 
